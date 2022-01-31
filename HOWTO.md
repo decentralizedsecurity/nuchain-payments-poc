@@ -4,7 +4,7 @@ The PoC is based on two Node.js scripts and two Solidity smart contracts:
  - nu.js -- NuCypher worker node
  - client.js -- Client who would deploy policies
  - Payment.sol -- Contract to be used as payment wall on any Blockchain
- - Node.sol -- Contract to be used on the NuCypher network
+ - NuDummy.sol -- Contract to be used on the NuCypher network
 
 ## Running
 
